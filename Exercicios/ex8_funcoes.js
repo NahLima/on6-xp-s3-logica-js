@@ -1,4 +1,7 @@
-// Crie uma função para cada uma das operações básicas (soma, subtração, multiplicação e divisão), cada uma delas recebendo 2 números como parâmetros e retornando o resultado para esse exercício, as funções de multiplicação e divisão não devem aceitar valores iguais a 0 (zero). Adicione esta lógica nas funções.
+// Crie uma função para cada uma das operações básicas 
+//(soma, subtração, multiplicação e divisão), cada uma delas recebendo 2 
+//números como parâmetros e retornando o resultado para esse exercício, 
+//as funções de multiplicação e divisão não devem aceitar valores iguais a 0 (zero). Adicione esta lógica nas funções.
 
 function soma(num1, num2){
   return num1 + num2
